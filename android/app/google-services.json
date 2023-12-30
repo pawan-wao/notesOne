@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637320832315",
+    "project_id": "notesone-7cbfa",
+    "storage_bucket": "notesone-7cbfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637320832315:android:8a0eb057e057ffe6bcc31e",
+        "android_client_info": {
+          "package_name": "com.example.notesone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxY39LojqfbwAIk6Y7xKt7tnBgAc94Rdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
