@@ -1,7 +1,7 @@
 📝🚀 Presenting NotesOne
 
 ##  What's NotesOne?
-A Flutter app that revolutionizes note-taking with simplicity and efficiency. 📱✨
+A Flutter app that revolutionizes note-taking with simplicity and efficiency. ✨
 📋 Using Flutter and Firebase as its backbone, NotesOne powers users to effortlessly add, edit, and delete notes, ensuring a seamless experience.
 What sets it apart? It automatically timestamps every note, providing a chronological record of your thoughts and ideas. 🗓️⏰
 
