@@ -21,7 +21,6 @@ What sets it apart? It automatically timestamps every note, providing a chronolo
 Linkdin Post: https://www.linkedin.com/posts/pawan-singh-coder_30flutterprojects-notesoneapp-flutterdev-activity-7146841612592005120-z50A?utm_source=share&utm_medium=member_desktop
 
 ## 📥 Download and install NotesOne Flutter app:
-
 Google Drive Link (Size: 20 MB): 
 https://drive.google.com/file/d/1SFvLojZKHX8tjwjBQgjbvCtBYrcqHX-Q/view?usp=sharing
 
