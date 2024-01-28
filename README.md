@@ -13,6 +13,7 @@ What sets it apart? It automatically timestamps every note, providing a chronolo
 
 **Android Studio:** The official IDE for Android development.
 
+
 ## App Preview
 ![1](https://github.com/pawan-wao/notesOne/assets/119276655/f5d24e4c-44f5-4b16-b87d-6d7e3358a1f0)
 ![2](https://github.com/pawan-wao/notesOne/assets/119276655/09ad94b4-7d1d-43fe-835d-4fa11fbbdea5)
